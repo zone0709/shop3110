@@ -1,0 +1,13 @@
+RewriteEngine On
+
+RewriteRule ^trangchu.html$ index.php
+RewriteRule ^lien-he.html$ contact.php
+RewriteRule ^tim-kiem.html$ search.php
+RewriteRule ^gio-hang.html$ checkout.php
+RewriteRule ^accept-order$ accept-order.php
+RewriteRule ^404$ 404.php
+
+RewriteRule ^([0-9]+)-([a-zA-Z0-9-]*).html$ detail-food.php?id=$1&alias=$2
+
+#chu thich
+ErrorDocument 404 /shop3110/404
