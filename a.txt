@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hieu ngu nhu heo
+=======
+Hieu oc cho
+>>>>>>> parent of b8de435... commit
