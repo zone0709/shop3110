@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Phat Ngu
+=======
+<<<<<<< HEAD
+Hieu ngu nhu heo
+=======
+Hieu oc cho
+>>>>>>> parent of b8de435... commit
+>>>>>>> parent of b03ce1b... Phat ngu
